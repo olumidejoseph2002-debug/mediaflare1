@@ -10,10 +10,10 @@ const Contacts = () => {
       
 
 
-    <div className='flex w-full items-start justify-between gap-5 mt-12'>
+    <div className='flex w-full items-start justify-between gap-5 mt-12 '>
           <div >
             <div className='text-gray-400 text-2xl'>
-              Let's 
+             Let&apos;s
               </div>
 
             <div className='mt-4 w-[250px] leading-loose'>
@@ -33,7 +33,7 @@ const Contacts = () => {
           </div>
 
 
-    <div>
+    <div className='text-red-400 text-xl ml-20'>
       Talk
     </div>
     </div>

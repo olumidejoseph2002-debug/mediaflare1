@@ -9,7 +9,7 @@ const Testimonials = () => {
     </div>
 
     <div className='mt-3 font-bold text-3xl'>
-      Don't Take our Words From It!
+     Don&apos;t Take our Words From It!
     </div>
     <div className='font-bold text-3xl'>
       Hear It From Out Partners.

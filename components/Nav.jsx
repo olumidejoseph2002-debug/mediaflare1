@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import Link from 'next/link'
+// import Link from 'next/link'
 
 const Nav = () => {
   return (
@@ -24,7 +24,7 @@ const Nav = () => {
           </li>
            <li className='px-2'><a>Service</a></li>
            <li className='px-2'><a>Team</a></li>
-           <li className='px-2'><a>W0rk</a></li>
+           <li className='px-2'><a>Work</a></li>
         </ul>
       </div>
       <div className="navbar-end">

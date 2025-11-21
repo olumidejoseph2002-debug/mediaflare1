@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+import Script from "next/script";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -31,7 +32,7 @@ export default function RootLayout({
       >
         <head>
           <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
-          <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+          <Script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4" />
           <link href="https://cdn.jsdelivr.net/npm/flowbite@4.0.1/dist/flowbite.min.css" rel="stylesheet" />
           
 
