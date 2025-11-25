@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const Team = () => {
   return (
-    <main>
+    <main className='mt-10'>
       <div className='bg-red-100 flex justify-center items-center p-1 mx-auto w-[120px] rounded-lg mt-6'>
         <div className='text-base text-red-700'>Our Team</div>
 
@@ -15,7 +15,7 @@ const Team = () => {
 
       
       
-  <div className='flex w-full items-start justify-start gap-8 mt-12 pl-20 mr-0'>
+  <div className='grid grid-cols-2 lg:grid-cols-4 w-full items-start justify-start gap-8 mt-12 container mr-0'>
     <div>
       {/* Image1 */}
         <Image 

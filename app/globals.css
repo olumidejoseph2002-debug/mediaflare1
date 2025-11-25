@@ -58,11 +58,11 @@ body {
   box-shadow: 0 0 21px 0 #d42e2248;
 }
 
-/* * {
+ * {
   margin: 0;
   padding: 0;
-  border:  solid 1px red;
-} */
+  /* border:  solid 1px red; */
+}
 
 .navbar {
   width: 90%;
