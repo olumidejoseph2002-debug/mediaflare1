@@ -129,7 +129,7 @@ const Contacts = () => {
           <div className='font-semibold text-[30px]'>We do not tell you our story.</div>
           <div className='font-semibold text-[30px]'>We write it together.</div>
           <div className='text-[18px] text-[#808080] mt-6'>Partnering with us means a seat at the table where you will be heard.</div>
-          <div className='bg-[#D42E22] text-white font-normal  p-1 px-2 flex flex-row-reverse items-center gap-2 rounded-md'>Start a Project <span>
+          <div className='bg-[#D42E22] text-white font-normal  p-1 px-2 flex flex-row-reverse items-center gap-2 rounded-md mt-10'>Start a Project <span>
             <FaArrowRightLong className='bg-white text-[#D42E22] p-1 rounded-sm' /></span></div>
         </div>
       </div>

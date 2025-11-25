@@ -28,9 +28,9 @@ const Footer = () => {
             </div>
           </div>
 
-          <div>
+          <div className=''>
             <div className='text-[16px] text-[#808080]'>Follow</div>
-            <div className='flex flex-row gap-7 mt-4'>
+            <div className='flex flex-row gap-6 mt-4'>
               <Image
                 src="/icon/instagram.svg"
                 alt=""

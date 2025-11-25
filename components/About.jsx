@@ -7,7 +7,7 @@ const About = () => {
       <div className='w-full mx-auto mt-10 '>
       
       {/* About Us Badge */}
-      <div className='bg-red-100 flex justify-center items-center p-1 mx-auto w-[111px] h-[29px] rounded-lg my-6'>
+      <div className='bg-[#ffa07a3c] flex justify-center items-center p-1 mx-auto w-[111px] h-[29px] rounded-lg my-6'>
         <div className='text-[16px] text-[#D42E22]'>About Us</div>
       </div>
 

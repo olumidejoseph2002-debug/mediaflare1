@@ -25,7 +25,7 @@ const Testimonials = () => {
   ]
   return (
     
-      <div className='px-20 w-full mt-10'>
+      <div className='px-20 w-full mt-20'>
         <div className='font-light text-[20px] text-[#333333] w-[116px] h-[22px]'>
           Testimonials
         </div>

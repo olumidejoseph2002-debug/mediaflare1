@@ -3,7 +3,7 @@ import React from 'react'
 const Client = () => {
   return (
     <main className='w-full mx-auto mt-10'>
-      <div className='bg-red-100 flex justify-center items-center p-1 px-3 mx-auto w-fit h-[29px] rounded-md '>
+      <div className='bg-[#ffa07a3c] flex justify-center items-center p-1 px-3 mx-auto w-fit h-[29px] rounded-md '>
         <div className='text-[16px] text-[#D42E22]'>Our Client & Our Work</div>
 
       </div>

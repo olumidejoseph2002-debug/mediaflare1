@@ -4,13 +4,13 @@ import Image from 'next/image'
 const Team = () => {
   return (
     <main className='mt-10'>
-      <div className='bg-red-100 flex justify-center items-center p-1 mx-auto w-[120px] rounded-lg mt-6'>
-        <div className='text-base text-red-700'>Our Team</div>
+      <div className='bg-[#ffa07a3c] flex justify-center items-center p-1 mx-auto w-[120px] rounded-lg mt-6'>
+        <div className='text-[16px] text-[#D42E22]'>Our Team</div>
 
       </div>
 
-      <div className='flex text-xl items-center justify-center mt-4'>
-       <div className='font-semibold'>We Are</div> <div className='text-gray-500 mx-2'>Stronger</div>
+      <div className='flex text-[22px] items-center justify-center mt-4 font-medium'>
+       <div className='font-medium text-[#141414]'>We Are</div> <div className='text-[#808080] mx-2'>Stronger</div>
         </div>
 
       
