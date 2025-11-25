@@ -18,7 +18,7 @@ const Contacts = () => {
 
           <div className='lg:w-2/6 ' >
             <div className='text-[#808080] text-[22px]  font-medium'>
-              <p>Let's</p>
+              <p>Let&apos;s</p>
             </div>
 
             <div className='mt-4 leading-loose text-[16px] text-[#141414]'>

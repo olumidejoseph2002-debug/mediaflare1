@@ -7,7 +7,7 @@ const Lever = () => {
       {/* Text Section */}
       <div className=" w-full h-[141px]">
         <p className="text-[22px] text-center text-[#141414] whitespace-nowrap mt-5">
-          Trusted by <span className="text-[#808080]">Africa's</span> leading companies.
+          Trusted by <span className="text-[#808080]">Africa&apos;s</span> leading companies.
         </p>
         {/* Images Section */}
         <div className="flex flex-wrap justify-evenly items-center w-full px-10 mt-6">
